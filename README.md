@@ -8,7 +8,8 @@
 - Trained and compared multiple models including LightGBM, XGBoost, and Random Forest.
 - Optimized model performance using hyperparameter tuning and cross-validation.
 - Achieved best performance using LightGBM/XGBoost based on Accuracy and F1-score.
-- More details [here](https://github.com/VarshaS-37/Data_Science_Projects_Repo/blob/main/BDM_Project/PPT.pdf)
+- Kaggle Competition [Link](https://www.kaggle.com/competitions/comment-category-prediction-challenge/overview)
+- Code [here](https://github.com/VarshaS-37/Data_Science_Projects_Repo/tree/main/ML_Project)
   
 ## [📈 BDM Project](https://github.com/VarshaS-37/Data_Science_Projects_Repo/tree/main/BDM_Project) 
 - Business Data Analysis (Excel) for VHS Designs: Predicting ROI for Non-Seasonal product launches, Identifying High-Potential locations through 3D mapping and Boosting Profitability through data analysis.
