@@ -1,7 +1,7 @@
 
 ## 📁 Repository Structure
 
-## [🤖 Comment Category Prediction (ML Project)](link-to-your-folder)
+## [🤖 Comment Category Prediction (ML Project)](https://github.com/VarshaS-37/Data_Science_Projects_Repo/tree/main/ML_Project)
 - Built a multi-class machine learning model to predict the category of user-generated comments.
 - Performed data preprocessing, missing value handling, and feature engineering on textual, numerical, and categorical data.
 - Extracted features from comments using TF-IDF (word + character level).
